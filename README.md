@@ -18,7 +18,7 @@
 | 資料夾 | 對應文章 | 多做了什麼 |
 | --- | --- | --- |
 | [`01-minimal-agent/`](01-minimal-agent/) | A1 | 一問一答的骨架。沒有記憶、沒有角色設定 |
-| `02-with-memory/`（即將推出） | A2 | 多了一個 `messages` list：每輪把整串對話重送 |
+| [`02-with-memory/`](02-with-memory/) | A2 | 多了一個 `messages` list：每輪把整串對話重送 |
 | `03-with-system-prompt/`（即將推出） | A3 | 多了一則 `system` 訊息：把它變成專門做一件事的 agent |
 
 ## 環境需求
